@@ -1301,7 +1301,9 @@ footer a{
 
   /*=======Home section=======*/
   .home .home-container{
-    display: grid;
+     display: flex;
+     justify-content: center;
+     align-items: center;
   }
 
   .home-container .home-img{
